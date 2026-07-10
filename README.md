@@ -104,20 +104,14 @@ Calculator   Dashboard   Budget
 ## Dashboard Preview
 
 <p align="Left">
-    <img src="Images/Screenshot%202026-07-10%20232450.png" alt="Login Screen" width="900">
-</p>
-
-<p align="Right">
-    <img src="Images/Screenshot%202026-07-10%20232501.png" alt="Dashboard" width="900">
+    <img src="Images/Screenshot%202026-07-10%20232450.png" alt="Login Screen" width="500">
 </p>
 
 <p align="Left">
-    <img src="Images/Screenshot%202026-07-10%20232510.png" alt="Carbon Footprint Calculator" width="900">
+    <img src="Images/Screenshot%202026-07-10%20232510.png" alt="Carbon Footprint Calculator" width="500">
 </p>
 
-<p align="Right">
-    <img src="Images/Screenshot%202026-07-10%20232521.png" alt="Analytics Dashboard" width="900">
-</p>
+
 
 ---
 
